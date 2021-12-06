@@ -1,0 +1,276 @@
+================
+Ridge Regression
+================
+
+q = 1, C = 0.0001
+
+K-fold 1 score: -0.025090
+K-fold 2 score: -23.505457
+K-fold 3 score: -0.271962
+K-fold 4 score: -0.116924
+K-fold 5 score: -2.155932
+
+Average mean squared error: 0.015194
+Standard deviation of mean squared error: 0.004009
+
+q = 2, C = 0.0001
+
+K-fold 1 score: -0.025010
+K-fold 2 score: -23.503875
+K-fold 3 score: -0.272024
+K-fold 4 score: -0.116919
+K-fold 5 score: -2.155685
+
+Average mean squared error: 0.015192
+Standard deviation of mean squared error: 0.004008
+
+q = 3, C = 0.0001
+
+K-fold 1 score: -0.024932
+K-fold 2 score: -23.503001
+K-fold 3 score: -0.272039
+K-fold 4 score: -0.116914
+K-fold 5 score: -2.155576
+
+Average mean squared error: 0.015191
+Standard deviation of mean squared error: 0.004008
+
+q = 1, C = 0.001
+
+K-fold 1 score: -0.025126
+K-fold 2 score: -23.485735
+K-fold 3 score: -0.273015
+K-fold 4 score: -0.116856
+K-fold 5 score: -2.152411
+
+Average mean squared error: 0.015169
+Standard deviation of mean squared error: 0.004005
+
+q = 2, C = 0.001
+
+K-fold 1 score: -0.024341
+K-fold 2 score: -23.470000
+K-fold 3 score: -0.273643
+K-fold 4 score: -0.116810
+K-fold 5 score: -2.149948
+
+Average mean squared error: 0.015151
+Standard deviation of mean squared error: 0.004004
+
+q = 3, C = 0.001
+
+K-fold 1 score: -0.023579
+K-fold 2 score: -23.461322
+K-fold 3 score: -0.273788
+K-fold 4 score: -0.116762
+K-fold 5 score: -2.148869
+
+Average mean squared error: 0.015143
+Standard deviation of mean squared error: 0.004004
+
+q = 1, C = 0.01
+
+K-fold 1 score: -0.026224
+K-fold 2 score: -23.292380
+K-fold 3 score: -0.283763
+K-fold 4 score: -0.116219
+K-fold 5 score: -2.117848
+
+Average mean squared error: 0.014924
+Standard deviation of mean squared error: 0.003971
+
+q = 2, C = 0.01
+
+K-fold 1 score: -0.019971
+K-fold 2 score: -23.142506
+K-fold 3 score: -0.290328
+K-fold 4 score: -0.115822
+K-fold 5 score: -2.094390
+
+Average mean squared error: 0.014757
+Standard deviation of mean squared error: 0.003962
+
+q = 3, C = 0.01
+
+K-fold 1 score: -0.013634
+K-fold 2 score: -23.061741
+K-fold 3 score: -0.291955
+K-fold 4 score: -0.115403
+K-fold 5 score: -2.084416
+
+Average mean squared error: 0.014686
+Standard deviation of mean squared error: 0.003965
+
+q = 1, C = 0.1
+
+K-fold 1 score: -0.095551
+K-fold 2 score: -21.682368
+K-fold 3 score: -0.406828
+K-fold 4 score: -0.112943
+K-fold 5 score: -1.827414
+
+Average mean squared error: 0.012898
+Standard deviation of mean squared error: 0.003674
+
+q = 2, C = 0.1
+
+K-fold 1 score: -0.139854
+K-fold 2 score: -20.702078
+K-fold 3 score: -0.482456
+K-fold 4 score: -0.112602
+K-fold 5 score: -1.675453
+
+Average mean squared error: 0.011845
+Standard deviation of mean squared error: 0.003615
+
+q = 3, C = 0.1
+
+K-fold 1 score: -0.153348
+K-fold 2 score: -20.252016
+K-fold 3 score: -0.501990
+K-fold 4 score: -0.110653
+K-fold 5 score: -1.624563
+
+Average mean squared error: 0.011486
+Standard deviation of mean squared error: 0.003643
+
+q = 1, C = 1
+
+K-fold 1 score: -1.779437
+K-fold 2 score: -16.583198
+K-fold 3 score: -1.522815
+K-fold 4 score: -0.135744
+K-fold 5 score: -0.855498
+
+Average mean squared error: 0.006721
+Standard deviation of mean squared error: 0.002449
+
+q = 2, C = 1
+
+K-fold 1 score: -2.720908
+K-fold 2 score: -15.296064
+K-fold 3 score: -1.720214
+K-fold 4 score: -0.138684
+K-fold 5 score: -0.706618
+
+Average mean squared error: 0.005879
+Standard deviation of mean squared error: 0.002353
+
+q = 3, C = 1
+
+K-fold 1 score: -3.071520
+K-fold 2 score: -14.821840
+K-fold 3 score: -1.722131
+K-fold 4 score: -0.132080
+K-fold 5 score: -0.680962
+
+Average mean squared error: 0.005788
+Standard deviation of mean squared error: 0.002387
+
+q = 1, C = 10
+
+K-fold 1 score: -5.022049
+K-fold 2 score: -15.091804
+K-fold 3 score: -3.113025
+K-fold 4 score: -0.186479
+K-fold 5 score: -0.408497
+
+Average mean squared error: 0.004932
+Standard deviation of mean squared error: 0.002425
+
+q = 2, C = 10
+
+K-fold 1 score: -5.952314
+K-fold 2 score: -14.135441
+K-fold 3 score: -2.986555
+K-fold 4 score: -0.167001
+K-fold 5 score: -0.424515
+
+Average mean squared error: 0.004980
+Standard deviation of mean squared error: 0.002766
+
+q = 3, C = 10
+
+K-fold 1 score: -6.095466
+K-fold 2 score: -14.113553
+K-fold 3 score: -3.051356
+K-fold 4 score: -0.167296
+K-fold 5 score: -0.425891
+
+Average mean squared error: 0.005075
+Standard deviation of mean squared error: 0.002927
+
+q = 1, C = 100
+
+K-fold 1 score: -5.793342
+K-fold 2 score: -15.169043
+K-fold 3 score: -3.461542
+K-fold 4 score: -0.198231
+K-fold 5 score: -0.362063
+
+Average mean squared error: 0.004943
+Standard deviation of mean squared error: 0.002665
+
+q = 2, C = 100
+
+K-fold 1 score: -6.620740
+K-fold 2 score: -15.777090
+K-fold 3 score: -4.059293
+K-fold 4 score: -0.174193
+K-fold 5 score: -0.414793
+
+Average mean squared error: 0.005900
+Standard deviation of mean squared error: 0.003886
+
+q = 3, C = 100
+
+K-fold 1 score: -6.323427
+K-fold 2 score: -16.386439
+K-fold 3 score: -4.266279
+K-fold 4 score: -0.205753
+K-fold 5 score: -0.433727
+
+Average mean squared error: 0.005704
+Standard deviation of mean squared error: 0.003954
+
+q = 1, C = 1000
+
+K-fold 1 score: -5.880273
+K-fold 2 score: -15.185049
+K-fold 3 score: -3.500379
+K-fold 4 score: -0.199550
+K-fold 5 score: -0.357677
+
+Average mean squared error: 0.004950
+Standard deviation of mean squared error: 0.002696
+
+q = 2, C = 1000
+
+K-fold 1 score: -6.600453
+K-fold 2 score: -18.317243
+K-fold 3 score: -5.159353
+K-fold 4 score: -0.180964
+K-fold 5 score: -0.420028
+
+Average mean squared error: 0.007526
+Standard deviation of mean squared error: 0.005859
+
+q = 3, C = 1000
+
+K-fold 1 score: -7.033723
+K-fold 2 score: -17.158566
+K-fold 3 score: -5.018890
+K-fold 4 score: -0.285888
+K-fold 5 score: -0.555449
+
+Average mean squared error: 0.005860
+Standard deviation of mean squared error: 0.004669
+
+
+Hyperparameters with minimum MSE: q = 1, C = 10
+MSE = 0.004932
+stdev = 0.002425
+
+Hyperparameters with minimum stdev: q = 2, C = 1
+MSE = 0.005879
+stdev = 0.002353

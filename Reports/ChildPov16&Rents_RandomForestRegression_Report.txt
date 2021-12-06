@@ -1,0 +1,177 @@
+========================
+Random Forest Regression
+========================
+
+q = 1, Estimators = 100
+
+K-fold 0 score: 0.5201750825635958
+K-fold 1 score: 0.8166360695415529
+K-fold 2 score: 0.6855214029106332
+K-fold 3 score: 0.7793051629847386
+K-fold 4 score: 0.4838618169307187
+
+Average mean squared error: 0.004475
+Standard deviation of mean squared error: 0.002050
+
+q = 2, Estimators = 100
+
+K-fold 0 score: 0.6966501968533677
+K-fold 1 score: 0.8667182814377326
+K-fold 2 score: 0.6906346845482058
+K-fold 3 score: 0.7697965806169208
+K-fold 4 score: 0.16021206867615245
+
+Average mean squared error: 0.004312
+Standard deviation of mean squared error: 0.002083
+
+q = 3, Estimators = 100
+
+K-fold 0 score: 0.7397757493168797
+K-fold 1 score: 0.8608026164454288
+K-fold 2 score: 0.6768632481762754
+K-fold 3 score: 0.6265362041200125
+K-fold 4 score: -0.034326508794310984
+
+Average mean squared error: 0.004796
+Standard deviation of mean squared error: 0.002392
+
+q = 1, Estimators = 250
+
+K-fold 0 score: 0.5524667583039493
+K-fold 1 score: 0.8243451420255439
+K-fold 2 score: 0.6663311069929101
+K-fold 3 score: 0.7791412347931348
+K-fold 4 score: 0.5054821941460758
+
+Average mean squared error: 0.004386
+Standard deviation of mean squared error: 0.001993
+
+q = 2, Estimators = 250
+
+K-fold 0 score: 0.6944656533869971
+K-fold 1 score: 0.855872259035047
+K-fold 2 score: 0.6867909277735416
+K-fold 3 score: 0.7505056256538832
+K-fold 4 score: 0.09279900456497758
+
+Average mean squared error: 0.004512
+Standard deviation of mean squared error: 0.002185
+
+q = 3, Estimators = 250
+
+K-fold 0 score: 0.7378927623024546
+K-fold 1 score: 0.8343199565958815
+K-fold 2 score: 0.6709367429007113
+K-fold 3 score: 0.6256558275474454
+K-fold 4 score: 0.12964943635874715
+
+Average mean squared error: 0.004632
+Standard deviation of mean squared error: 0.001869
+
+q = 1, Estimators = 500
+
+K-fold 0 score: 0.5397461634230427
+K-fold 1 score: 0.815790531748723
+K-fold 2 score: 0.6759738125301733
+K-fold 3 score: 0.7747642243850239
+K-fold 4 score: 0.5037368429779873
+
+Average mean squared error: 0.004426
+Standard deviation of mean squared error: 0.001983
+
+q = 2, Estimators = 500
+
+K-fold 0 score: 0.6931206994181534
+K-fold 1 score: 0.8532112562740373
+K-fold 2 score: 0.6731093337772641
+K-fold 3 score: 0.7228272641692971
+K-fold 4 score: 0.051169252282516564
+
+Average mean squared error: 0.004689
+Standard deviation of mean squared error: 0.002265
+
+q = 3, Estimators = 500
+
+K-fold 0 score: 0.7571842800766688
+K-fold 1 score: 0.845007835570805
+K-fold 2 score: 0.6681014366449496
+K-fold 3 score: 0.6522158600471233
+K-fold 4 score: 0.10236176100969374
+
+Average mean squared error: 0.004555
+Standard deviation of mean squared error: 0.002042
+
+q = 1, Estimators = 750
+
+K-fold 0 score: 0.5552995480782459
+K-fold 1 score: 0.8119545603729779
+K-fold 2 score: 0.6808826233538039
+K-fold 3 score: 0.7807165496231616
+K-fold 4 score: 0.5014079165771742
+
+Average mean squared error: 0.004367
+Standard deviation of mean squared error: 0.001906
+
+q = 2, Estimators = 750
+
+K-fold 0 score: 0.6820737011327078
+K-fold 1 score: 0.8502693476838477
+K-fold 2 score: 0.6709235469166621
+K-fold 3 score: 0.7300500589348626
+K-fold 4 score: 0.07358848433584597
+
+Average mean squared error: 0.004692
+Standard deviation of mean squared error: 0.002220
+
+q = 3, Estimators = 750
+
+K-fold 0 score: 0.7373916374563148
+K-fold 1 score: 0.8440109828807475
+K-fold 2 score: 0.661113204849358
+K-fold 3 score: 0.6702733973167347
+K-fold 4 score: 0.06588895509608172
+
+Average mean squared error: 0.004681
+Standard deviation of mean squared error: 0.002160
+
+q = 1, Estimators = 1000
+
+K-fold 0 score: 0.5402649033842192
+K-fold 1 score: 0.816310450862025
+K-fold 2 score: 0.683803226694456
+K-fold 3 score: 0.7915383965836004
+K-fold 4 score: 0.5012791666051383
+
+Average mean squared error: 0.004372
+Standard deviation of mean squared error: 0.001993
+
+q = 2, Estimators = 1000
+
+K-fold 0 score: 0.6888777307263436
+K-fold 1 score: 0.8481305429162805
+K-fold 2 score: 0.6891834975678144
+K-fold 3 score: 0.7276199797539152
+K-fold 4 score: 0.08419685418903744
+
+Average mean squared error: 0.004595
+Standard deviation of mean squared error: 0.002137
+
+q = 3, Estimators = 1000
+
+K-fold 0 score: 0.7420770826099237
+K-fold 1 score: 0.8474147814961119
+K-fold 2 score: 0.6714759407285605
+K-fold 3 score: 0.6616100089193193
+K-fold 4 score: 0.060683408196823274
+
+Average mean squared error: 0.004638
+Standard deviation of mean squared error: 0.002147
+
+
+Hyperparameters with minimum MSE: q = 2, Estimator = 100
+MSE = 0.004312
+stdev = 0.002083
+
+Hyperparameters with minimum stdev: q = 3, Estimator = 250
+MSE = 0.004632
+stdev = 0.001869
