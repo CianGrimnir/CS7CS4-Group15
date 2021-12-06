@@ -3,14 +3,10 @@ from keras.layers import Dense
 from keras.layers import Dropout
 from sklearn.metrics import r2_score
 import matplotlib.pyplot as plt
-import numpy
-from keras.optimizers import Adam
 import keras
 from matplotlib import pyplot
 from keras.callbacks import EarlyStopping
-import pandas as pd
 from sklearn.preprocessing import LabelEncoder
-from tensorflow.keras.optimizers import Adam
 from tensorflow.keras.optimizers import Adam
 import pandas as pd
 import numpy as np
@@ -40,7 +36,6 @@ traffic = traffic.iloc[:, 6:-1]
 workless = workless.iloc[:, 2:-1]
 target = target.iloc[:, 6:-1]
 
-earning_matrix = earninig.iloc[:, :].to_numpy()
 earning_matrix = earning.iloc[:, :].to_numpy()
 female_matrix = female.iloc[:, :].to_numpy()
 female65_matrix = female65.iloc[:, :].to_numpy()
@@ -82,8 +77,8 @@ pyplot.show()
 plt.title('Training Set')
 plt.xlabel('Actual')
 plt.ylabel('Predicted')
-plt.plot(y_test,ypred,'ro')
-scores = r2_score(y_test,ypred)
+plt.plot(y_test, ypred, 'ro')
+scores = r2_score(y_test, ypred)
 print(scores)
 plt.show()
 
@@ -107,13 +102,13 @@ pyplot.show()
 plt.title('Training Set')
 plt.xlabel('Actual')
 plt.ylabel('Predicted')
-plt.plot(y_test,ypred,'ro')
-scores = r2_score(y_test,ypred)
+plt.plot(y_test, ypred, 'ro')
+scores = r2_score(y_test, ypred)
 print(scores)
 plt.show()
 
-plt.plot(y_test, color = 'red', label = 'Real data')
-plt.plot(ypred, color = 'blue', label = 'Predicted data')
+plt.plot(y_test, color='red', label='Real data')
+plt.plot(ypred, color='blue', label='Predicted data')
 plt.title('Prediction')
 plt.legend()
 plt.show()
@@ -121,15 +116,13 @@ plt.show()
 # Score - 0.8816908050848434
 
 
-
 model = Sequential()
-model.add(Dense(32, activation = 'relu', input_dim = 7))
-model.add(Dense(units = 32, activation = 'relu'))
-model.add(Dense(units = 32, activation = 'relu'))
-model.add(Dense(units = 1))
-model.compile(optimizer = 'adam', loss = 'mean_squared_error')
-model.fit(X_train, y_train, batch_size = 10, epochs = 100)
+model.add(Dense(32, activation='relu', input_dim=7))
+model.add(Dense(units=32, activation='relu'))
+model.add(Dense(units=32, activation='relu'))
+model.add(Dense(units=1))
+model.compile(optimizer='adam', loss='mean_squared_error')
+model.fit(X_train, y_train, batch_size=10, epochs=100)
 y_pred = model.predict(X_test)
-
 
 # Score - 0.8385995798362442
