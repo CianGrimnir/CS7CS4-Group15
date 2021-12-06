@@ -1,0 +1,50 @@
+Crime_2000-2017 - https://data.london.gov.uk/dataset/recorded_crime_rates
+
+
+Rents_2011-2017 - https://data.london.gov.uk/dataset/average-private-rents-borough
+
+Earnings_2000-2017 - https://data.london.gov.uk/dataset/earnings-workplace-borough
+
+NEETs_2009-2015 - https://data.london.gov.uk/dataset/young-people-not-employment-education-or-training-borough
+
+ChildPov_2006-2016 - https://data.london.gov.uk/dataset/children-poverty-borough
+
+Traffic_2000-2017 - https://data.london.gov.uk/dataset/traffic-flows-borough
+
+LifeExpect_2000-2017 - https://data.london.gov.uk/dataset/life-expectancy-birth-and-age-65-borough
+
+Workless_2004-2017 - https://data.london.gov.uk/dataset/workless-households-borough
+
+Barking and Dagenham
+Barnet
+Bexley
+Brent
+Bromley
+Camden
+Croydon
+Ealing
+Enfield
+Greenwich
+Hackney
+Hammersmith and Fulham
+Haringey
+Harrow
+Havering
+Hillingdon
+Hounslow
+Islington
+Kensington and Chelsea
+Kingston upon Thames
+Lambeth
+Lewisham
+Merton
+Newham
+Redbridge
+Richmond upon Thames
+Southwark
+Sutton
+Tower Hamlets
+Waltham Forest
+Wandsworth
+
+City of London and Westminster omitted
